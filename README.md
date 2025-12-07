@@ -1,5 +1,1 @@
 ﻿# git-to-know-me
-```mermaid
-flowchart LR
-    A --> B
-
