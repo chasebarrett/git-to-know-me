@@ -1,1 +1,11 @@
-﻿# git-to-know-me
+# git-to-know-me 👋
+
+This is a small space to share a bit more about who I am beyond my technical work.  
+If you're curious about my journey, values, or what I’m like as a human, feel free to explore below:
+
+- 👉 [My Journey](journey.md)
+- 🌱 [My Values](values.md)
+- 😄 [Fun Facts](fun-facts.md)
+
+Thanks for stopping by!
+
