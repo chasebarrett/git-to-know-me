@@ -1,4 +1,4 @@
-# My Journey
+## My Journey
 
 I grew up in Central California as the youngest of three where my parents owned a small business. As a child, I was a runner, a Silver-Gloves boxer, and an obsessive reader. Particularly my mothers old college textbooks! Those early experiences in the Californian Heartland taught a lot about discipline, the importance of staying curious, and a sense of self-reliance that stayed with me.
 
