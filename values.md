@@ -1,4 +1,4 @@
-# My Values
+## My Values
 
 These are the ideas that guide the way I work, learn, and collaborate.
 
@@ -16,12 +16,15 @@ I believe in building things that last: clean processes, reliable automations, a
 
 ## 🔍 Clarity  
 Ambiguity creates waste. I value transparency, clear communication, and shared understanding.
+
 ---
 
 ## 🌱 Continuous Learning  
-Returning to college later in life taught me the value of curiosity and adaptability. I think too many people view learning as a burden, when I think it's my greatest strength. I believe a general motivation to continually learn and improve is one of the greatest strengths one can.
+Returning to college later in life taught me the value of curiosity and adaptability. I think too many people view learning as a burden, when I think it's my greatest strength. I believe a general motivation to continually learn and improve is one of the greatest strengths one can have.
+
 ---
 
 ## 🤝 Kindness, Integrity & Service
 I firmly believe that being a good person requires a deliberate, concentrated effort. This is why I make dedicated efforts to regularly volunteer and giveback in my community.
+
 ---
